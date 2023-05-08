@@ -15,3 +15,13 @@ O modelo LSTM utliza esse parametro como calculo para o output sendo assim, no t
 
 → Sem o ano de 2018
 ![image](https://user-images.githubusercontent.com/87772120/236906059-b12e7009-1830-486e-bbb3-2950f74351c9.png)
+
+
+Fonte de dados:
+[B3 times series - Data](https://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/historico/mercado-a-vista/series-historicas/)
+
+
+[File Layout - Quotations History](https://www.b3.com.br/data/files/33/67/B9/50/D84057102C784E47AC094EA8/SeriesHistoricas_Layout.pdf)
+                                       
+
+#The End!
