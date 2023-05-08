@@ -9,6 +9,7 @@ __pycache__/
 *.txt
 *.TXT
 *.parquet
+*.ZIP
 
 # Distribution / packaging
 .Python
