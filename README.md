@@ -1,6 +1,24 @@
 # B3_Predicty_2023
 Projeto de regressão utilizando TensorFlow-Keras para previsão de preço de ações da bolsa de valores Brasileira.
 
+Técnologias aplicadas:
+
+<p align="left">
+	<img width="90" height="30" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/27f9c64c-0b51-41fb-aa74-7854da290708"
+</p> 
+
+<p align="left">
+	<img width="90" height="30" src="https://user-images.githubusercontent.com/87772120/141834545-f9186e6f-b2e6-4cd8-ae45-60df39a57d8e.png"
+</p>  
+     
+<p align="left">
+<img width="90" height="30" src="https://user-images.githubusercontent.com/87772120/148815386-40bfef66-6fda-44f5-99fb-2c3675176acf.png"
+</p>
+
+<p align="left">
+<img width="90" height="30" src="https://user-images.githubusercontent.com/87772120/148815830-d8ed34a3-0272-4d1f-b4dc-6eb11848deaf.png"
+</p>
+
 
 
 EDA → Utilizando YFinance
