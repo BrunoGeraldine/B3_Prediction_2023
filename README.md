@@ -38,7 +38,7 @@ Preço acima ou abaixo das bandas
 Critério para saída da operação (Stop)
 
 	
-#MACD → Moving Average Convergence-Divergence
+# MACD → Moving Average Convergence-Divergence
 
 MACD: o que é e como funciona esse indicador?
 	
