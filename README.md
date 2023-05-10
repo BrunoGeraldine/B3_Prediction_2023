@@ -15,8 +15,8 @@ As bandas de bollinger funcionam bem para mercados que seguem tendências. Isso 
   <img width="1000" height="410" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/86db141f-ca31-4792-8028-1d1cd4ef3589"
 </p>
 
-<p align="right">
-  <img width="center" height="410" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/af0694f3-9238-47d4-af37-f3284b785298"
+<p align="center">
+  <img width="1000" height="410" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/af0694f3-9238-47d4-af37-f3284b785298"
 </p>
   
   Visualização grafica das bandas de bollinger utilizando como principio de tomada de decisão o cruzamento das médias movéis.
