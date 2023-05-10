@@ -4,11 +4,11 @@ Projeto de regressão utilizando TensorFlow-Keras para previsão de preço de a�
 Técnologias aplicadas:
 
 <p align="left">
-	<img width="90" height="30" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/27f9c64c-0b51-41fb-aa74-7854da290708"
+	<img width="100" height="30" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/27f9c64c-0b51-41fb-aa74-7854da290708"
 </p> 
 
 <p align="left">
-	<img width="90" height="30" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/b5a4699a-ef20-4ebf-b325-351db871c2de"
+	<img width="100" height="30" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/b5a4699a-ef20-4ebf-b325-351db871c2de"
 </p>  
      
 
