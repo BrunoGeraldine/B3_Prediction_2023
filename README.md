@@ -11,11 +11,12 @@ Quando o preço do ativo ultrapassa a banda superior, observamos uma tendência 
 As bandas de bollinger funcionam bem para mercados que seguem tendências. Isso mostra que, se utilizadas para analisar ativos que fogem dessa premissa, podem não ser tão úteis.
 
 
-<p align="left">
-  <img width="500" height="410" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/86db141f-ca31-4792-8028-1d1cd4ef3589"
-       
+<p align="center">
+  <img width="1000" height="410" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/86db141f-ca31-4792-8028-1d1cd4ef3589"
+</p>
+
 <p align="right">
-  <img width="500" height="410" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/af0694f3-9238-47d4-af37-f3284b785298"
+  <img width="center" height="410" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/af0694f3-9238-47d4-af37-f3284b785298"
 </p>
   
   Visualização grafica das bandas de bollinger utilizando como principio de tomada de decisão o cruzamento das médias movéis.
@@ -29,6 +30,10 @@ Critério para saída da operação (Stop)
 
 
 
+	
+	
+	
+	
 
 Explicação do modelo LSTM
 
