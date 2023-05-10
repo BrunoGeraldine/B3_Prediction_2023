@@ -8,18 +8,9 @@ Técnologias aplicadas:
 </p> 
 
 <p align="left">
-	<img width="90" height="30" src="https://user-images.githubusercontent.com/87772120/141834545-f9186e6f-b2e6-4cd8-ae45-60df39a57d8e.png"
+	<img width="90" height="30" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/b5a4699a-ef20-4ebf-b325-351db871c2de"
 </p>  
      
-<p align="left">
-<img width="90" height="30" src="https://user-images.githubusercontent.com/87772120/148815386-40bfef66-6fda-44f5-99fb-2c3675176acf.png"
-</p>
-
-<p align="left">
-<img width="90" height="30" src="https://user-images.githubusercontent.com/87772120/148815830-d8ed34a3-0272-4d1f-b4dc-6eb11848deaf.png"
-</p>
-
-
 
 EDA → Utilizando YFinance
 
@@ -40,17 +31,31 @@ As bandas de bollinger funcionam bem para mercados que seguem tendências. Isso 
   Visualização grafica das bandas de bollinger utilizando como principio de tomada de decisão o cruzamento das médias movéis.
 	
 Estratégias utilizando bandas de bollinger
-São utilizadas algumas estratégias baseadas nessa ferramenta de análise. Entretanto, nesse artigo não iremos nos aprofundar no tema, apenas indica-las. São elas:
+São utilizadas algumas estratégias baseadas nessa ferramenta de análise. Entretanto, nesse artigo não iremos nos aprofundar no tema, apenas 	   indica-las. São elas:
 
 Cruzamento dos preços com as bandas
 Preço acima ou abaixo das bandas
 Critério para saída da operação (Stop)
 
+	
+#MACD → Moving Average Convergence-Divergence
 
+MACD: o que é e como funciona esse indicador?
+	
+Um dos indicadores mais populares da análise técnica, o MACD, é amplamente utilizado por traders de diversos mercados. 
+Esse indicador, como vemos nessa análise técnica, pode emitir fortes sinais de aceleração ou reversão de tendências nos preços de um ativo.        Apesar de não ser infalível (nenhum indicador é), o MACD provê insights muito valiosos para o trader que souber utilizá-lo.
+	
+Como usar esse indicador na Análise Técnica?
+Por ser um gerador de sinais de compra e venda, o Indicador MACD é uma maneira de prever movimentos do mercado. Portanto, seu uso é mais comum (e eficaz) para identificar o começo ou fim de uma tendência, a tempo de se posicionar para aproveitá-la.
 
+Isso acontece com mais frequência quando a linha do MACD cruza a do Sinal. Se o cruzamento acontece em sinal de alta, a tendência é que aquele ativo se valorize em breve. O oposto é verdadeiro: se o MACD cruza a linha de Sinal em baixa, o ativo tende a fazer um movimento de baixa.
 	
 	
-	
+<p align="center">
+  <img width="1000" height="410" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/bcf149c0-21d5-4c2e-b6d7-56d9b13dcdd4"
+</p>
+	Visualização gráfica do grafico influenciado pelo MACD
+
 	
 
 Explicação do modelo LSTM
