@@ -3,6 +3,35 @@ Projeto de regressão utilizando TensorFlow-Keras para previsão de preço de a�
 
 
 
+EDA → Utilizando YFinance
+
+# Bandas Bollinger
+Bandas de bollinger conceitos
+Quando o preço do ativo ultrapassa a banda superior, observamos uma tendência de alta do ativo. Por outro lado, se o preço fica abaixo da banda inferior, há então uma tendência de baixa.
+As bandas de bollinger funcionam bem para mercados que seguem tendências. Isso mostra que, se utilizadas para analisar ativos que fogem dessa premissa, podem não ser tão úteis.
+
+
+<p align="left">
+  <img width="1000" height="400" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/86db141f-ca31-4792-8028-1d1cd4ef3589)"
+</p>
+
+<p align="right">
+  <img width="1000" height="400" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/af0694f3-9238-47d4-af37-f3284b785298
+"
+</p>
+  
+  Visualização grafica das bandas de bollinger utilizando como principio de tomada de decisão o cruzamento das médias movéis.
+	
+Estratégias utilizando bandas de bollinger
+São utilizadas algumas estratégias baseadas nessa ferramenta de análise. Entretanto, nesse artigo não iremos nos aprofundar no tema, apenas indica-las. São elas:
+
+Cruzamento dos preços com as bandas
+Preço acima ou abaixo das bandas
+Critério para saída da operação (Stop)
+
+
+
+
 Explicação do modelo LSTM
 
 ![image](https://user-images.githubusercontent.com/87772120/236852947-37c97efa-1dbd-4753-90f3-a105d834cf81.png)
