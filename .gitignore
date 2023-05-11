@@ -10,6 +10,9 @@ __pycache__/
 *.TXT
 *.parquet
 *.ZIP
+*.md.swp
+*.md
+*.swp
 
 # Distribution / packaging
 .Python
