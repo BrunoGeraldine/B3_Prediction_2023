@@ -52,11 +52,10 @@ Isso acontece com mais frequência quando a linha do MACD cruza a do Sinal. Se o
 	
 	
 <p align="center">
-  <img width="1000" height="410" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/bcf149c0-21d5-4c2e-b6d7-56d9b13dcdd4"
+  <img width="1000" height="410" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/bcf149c0-21d5-4c2e-b6d7-56d9b13dcdd4](https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/5579c912-3986-414c-836f-ec8009d532c6"
 </p>
 	Visualização gráfica do grafico influenciado pelo MACD
 
-	
 
 Explicação do modelo LSTM
 
