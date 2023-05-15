@@ -68,10 +68,12 @@ O modelo LSTM utliza esse parametro como calculo para o output sendo assim, no t
 # Comparação dos predições
 	
 	Resultado da predição:
-	<p align="center">
-  	<img width="600" height="410" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/af0694f3-9238-47d4-af37-f3284b785298](https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/9c373192-a603-4fbf-b778-46d9d4eda669"
-	</p>
+<p align="center">
+   <img width="600" height="410" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/3d26d525-33d3-45a1-b01f-da84e877ef07"
+</p>
 		
+
+
 	Grafico entre a predição e o coportamento real das datas:
 	
 
