@@ -69,16 +69,15 @@ O modelo LSTM utliza esse parametro como calculo para o output sendo assim, no t
 	
 	Resultado da predição:
 <p align="center">
-   <img width="600" height="410" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/3d26d525-33d3-45a1-b01f-da84e877ef07"
+   <img width="200" height="410" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/3d26d525-33d3-45a1-b01f-da84e877ef07"
 </p>
 		
 
 
-	Grafico entre a predição e o coportamento real das datas:
+	Grafico entre a predição e o coportamento real:
 	
 
-→ Sem o ano de 2018
-![image](https://user-images.githubusercontent.com/87772120/236906059-b12e7009-1830-486e-bbb3-2950f74351c9.png)
+![image](https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/d62f592b-46ea-4bc4-838c-2035e36d41cb)
 
 
 Fonte de dados:
