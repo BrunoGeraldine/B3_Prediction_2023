@@ -66,7 +66,7 @@ O modelo LSTM utliza esse parametro como calculo para o output sendo assim, no t
 
 
 # Comparação dos predições
- Resultado da predição de 01 dias (utilizando os dados de 2012 à 2023:
+ Resultado da predição de 01 dias (utilizando os dados de 2013 à 2023:
 <p align="center">
    <img width="1000" height="410" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/97df1d34-a302-48d6-ac64-adca8ec3761e"
 </p>
