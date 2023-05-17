@@ -10,7 +10,11 @@ Técnologias aplicadas:
 <p align="left">
 	<img width="100" height="30" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/b5a4699a-ef20-4ebf-b325-351db871c2de"
 </p>  
-     
+
+<p align="left">
+	<img width="100" height="30" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/2a73bee3-7f7b-45df-aa6e-09458c5cde84"
+</p>  
+
 
 EDA → Utilizando YFinance
 
@@ -54,47 +58,42 @@ Isso acontece com mais frequência quando a linha do MACD cruza a do Sinal. Se o
 <p align="center">
   <img width="1000" height="410" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/ca338fa0-bdbf-483b-83ea-5959374af869"
 </p>
-	Visualização gráfica do grafico influenciado pelo MACD
+Visualização gráfica do grafico influenciado pelo MACD
 	
 
 
 
 
-Explicação do modelo LSTM
+# Explicação do modelo LSTM
+<p align="center">
+  <img width="800" height="300" src="https://user-images.githubusercontent.com/87772120/236852947-37c97efa-1dbd-4753-90f3-a105d834cf81.png"
+</p>
 
-![image](https://user-images.githubusercontent.com/87772120/236852947-37c97efa-1dbd-4753-90f3-a105d834cf81.png)
 
 Conforme informamos o 'steps' que nada mais é os dias que o modelo deve utilizar como base para o output e assim prever o dia seguinte ou termino do valor informado no steps, ou seja, se steps=10 o output será o 11º dia.
 O modelo LSTM utliza esse parametro como calculo para o output sendo assim, no teste do modelo, ele utiliza o mesmo racional para o output apenas para comparação dos erro e ajuste para optmizar a predição.
 
 
 # Comparação dos predições
- Resultado da predição de 01 dias (utilizando os dados de 2013 à 2023:
+ Resultado da predição de 01 dias (utilizando os dados de 2012 à 2023:
 <p align="center">
-   <img width="1000" height="410" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/97df1d34-a302-48d6-ac64-adca8ec3761e"
+   <img width="1000" height="410" src="[https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/97df1d34-a302-48d6-ac64-adca8ec3761e](https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/212103c1-6347-4b07-ada3-f23f82cbf291)"
 </p>
-		
-![image](https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/212103c1-6347-4b07-ada3-f23f82cbf291)
 
-	
 Grafico dos Valores de fechamento real vs valor previsto:
 
 <p align="center">
    <img width="1000" height="410" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/c736a374-5dee-4007-9593-4a39812d8f52"
 </p>
 
+
+
+Grafico entre a predição e o coportamento real aplicando o modelo MLP Regressor Scikit-Learn :
 	
- Resultado da predição de 10 dias:
 <p align="center">
-   <img width="200" height="410" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/3d26d525-33d3-45a1-b01f-da84e877ef07"
+  <img width="1000" height="410" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/d62f592b-46ea-4bc4-838c-2035e36d41cb"
 </p>
-		
 
-
-	Grafico entre a predição e o coportamento real aplicando o modelo MLP Regress :
-	
-
-![image](https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/d62f592b-46ea-4bc4-838c-2035e36d41cb)
 
 
 Fonte de dados:
