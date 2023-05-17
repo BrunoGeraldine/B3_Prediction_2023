@@ -4,6 +4,18 @@ Projeto de regressão utilizando TensorFlow-Keras para previsão de preço de a�
 Técnologias aplicadas:
 
 <p align="left">
+	<img width="100" height="30" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/2a73bee3-7f7b-45df-aa6e-09458c5cde84"
+</p>  
+		
+<p align="left">
+	<img width="100" height="30" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/74b831b7-cbcd-415d-89b7-3136093392d9"
+</p>  
+
+<p align="left">
+	<img width="100" height="30" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/ea78ebf6-50dd-46b4-9c32-9712110877bc"
+</p>  
+
+<p align="left">
 	<img width="100" height="30" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/27f9c64c-0b51-41fb-aa74-7854da290708"
 </p> 
 
@@ -11,9 +23,7 @@ Técnologias aplicadas:
 	<img width="100" height="30" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/b5a4699a-ef20-4ebf-b325-351db871c2de"
 </p>  
 
-<p align="left">
-	<img width="100" height="30" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/2a73bee3-7f7b-45df-aa6e-09458c5cde84"
-</p>  
+
 
 
 EDA → Utilizando YFinance
@@ -64,7 +74,7 @@ Visualização gráfica do grafico influenciado pelo MACD
 
 
 
-# Explicação do modelo LSTM
+# Explicação do modelo LSTM - TensorFlow Keras
 <p align="center">
   <img width="800" height="300" src="https://user-images.githubusercontent.com/87772120/236852947-37c97efa-1dbd-4753-90f3-a105d834cf81.png"
 </p>
@@ -75,6 +85,8 @@ O modelo LSTM utliza esse parametro como calculo para o output sendo assim, no t
 
 
 # Comparação dos predições
+	
+## Predição utilizando o modelo LSTM
  Resultado da predição de 01 dia (utilizando os dados de 2012 à 2023):
 <p align="center">
    <img width="1000" height="410" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/2c6250ce-f413-4946-ad1f-ddd88460516a"
@@ -90,7 +102,7 @@ Grafico dos Valores de fechamento real vs valor previsto:
 
 
 
-Grafico entre a predição e o coportamento real aplicando o modelo MLP Regressor Scikit-Learn :
+Grafico entre a predição e o coportamento real aplicando o modelo MLP Regressor - Scikit-Learn :
 	
 <p align="center">
   <img width="1000" height="410" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/d62f592b-46ea-4bc4-838c-2035e36d41cb"
