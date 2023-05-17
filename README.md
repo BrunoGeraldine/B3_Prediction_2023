@@ -104,7 +104,7 @@ Grafico dos Valores de fechamento real vs valor previsto:
 ## Predição utilizando o modelo MLP Regressor - Scikit-Learn
  Resultado da predição de 01 dia (utilizando os dados de 2012 à 2023):
 <p align="center">
-  <img width="400" height="100" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/7dc47247-8b03-44e1-8c30-42d0f3a8921f"
+  <img width="400" height="300" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/7dc47247-8b03-44e1-8c30-42d0f3a8921f"
 </p>
 
 
