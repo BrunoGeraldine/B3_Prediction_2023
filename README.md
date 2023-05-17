@@ -71,8 +71,14 @@ O modelo LSTM utliza esse parametro como calculo para o output sendo assim, no t
    <img width="1000" height="410" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/97df1d34-a302-48d6-ac64-adca8ec3761e"
 </p>
 		
+![image](https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/212103c1-6347-4b07-ada3-f23f82cbf291)
 
+	
+Grafico dos Valores de fechamento real vs valor previsto:
 
+<p align="center">
+   <img width="1000" height="410" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/c736a374-5dee-4007-9593-4a39812d8f52"
+</p>
 
 	
  Resultado da predição de 10 dias:
