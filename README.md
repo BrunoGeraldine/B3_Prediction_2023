@@ -52,9 +52,12 @@ Isso acontece com mais frequência quando a linha do MACD cruza a do Sinal. Se o
 	
 	
 <p align="center">
-  <img width="1000" height="410" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/bcf149c0-21d5-4c2e-b6d7-56d9b13dcdd4](https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/5579c912-3986-414c-836f-ec8009d532c6"
+  <img width="1000" height="410" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/ca338fa0-bdbf-483b-83ea-5959374af869"
 </p>
 	Visualização gráfica do grafico influenciado pelo MACD
+	
+
+
 
 
 Explicação do modelo LSTM
@@ -88,7 +91,7 @@ Grafico dos Valores de fechamento real vs valor previsto:
 		
 
 
-	Grafico entre a predição e o coportamento real:
+	Grafico entre a predição e o coportamento real aplicando o modelo MLP Regress :
 	
 
 ![image](https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/d62f592b-46ea-4bc4-838c-2035e36d41cb)
