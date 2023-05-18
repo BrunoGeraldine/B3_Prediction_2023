@@ -1,13 +1,18 @@
 
 <p align="center">
-  <img width="1000" height="400" src="https://user-images.githubusercontent.com/87772120/159761251-5fe36a23-d9ec-4fef-af06-06e470ab5824.png"
+  <img width="800" height="300" src="https://user-images.githubusercontent.com/87772120/159761251-5fe36a23-d9ec-4fef-af06-06e470ab5824.png"
        </p>
 
-## B3_predict_shares by, Bruno Geraldine
+## B3_predict_shares with 2023 by, Bruno Geraldine
 	
 This project forecasts PETR4 assets belonging to the Petrobras company only for use in the application in the TensorFlow-Keras machine learning algorithm, which can be replicated to any other asset.
  
 Applied technologies:
+
+	
+<p align="left">
+	<img width="100" height="30" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/2a73bee3-7f7b-45df-aa6e-09458c5cde84"
+</p>  
 
 	
 <p align="left">
@@ -25,7 +30,9 @@ Applied technologies:
 	     </p>
 	
 	
-	
+<p align="left">
+	<img width="100" height="30" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/27f9c64c-0b51-41fb-aa74-7854da290708"
+</p> 	
 	
 	
 	
@@ -84,11 +91,9 @@ Applied technologies:
 ## Comparing between predicted values X actual values
 	
 <p align="center">
-	<img width="1000" height="400" src="https://user-images.githubusercontent.com/87772120/161990578-5c92123b-6d5d-430c-8541-99ee4c9fcc4b.png"
-	     </p>
+	<img width="800" height="300" src="https://github.com/BrunoGeraldine/B3_Prediction_share_bmg_2023/assets/87772120/cbfcd99c-ed65-45c4-9444-ddfb720f44fe"
+</p>
 
-	
-	
 	
  ps.: This project is not intended to guide, advise or indicate financial market actions for buying and/or selling, nor is it intended to analyze companies' commercial situations.
 The main objective of this work is to present my technical skills in data processing and analysis as well as in the implementation of machine-learn algorithms.
