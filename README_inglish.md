@@ -71,11 +71,12 @@ Applied technologies:
 
 
 	
-## Historycal Data + PRediction
+## Historycal Data + Prediction
 
 <p align="center">
-	<img width="1000" height="400" src="https://github.com/BrunoGeraldine/B3_Prediction_share_bmg_2023/assets/87772120/5c324018-2f9f-43ff-98ba-1a8546e769e4"
+	<img width="1000" height="400" src="https://github.com/BrunoGeraldine/B3_Prediction_share_bmg_2023/assets/87772120/b3e8edd3-231d-418b-b4ef-125a4471a91c"
 </p>
+
 
 
 	
