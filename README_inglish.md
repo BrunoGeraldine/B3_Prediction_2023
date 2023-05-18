@@ -87,7 +87,18 @@ Applied technologies:
 <p align="center">
 	<img width="200" height="500" src="https://github.com/BrunoGeraldine/B3_Prediction_share_bmg_2023/assets/87772120/8c170e83-9945-411c-aca2-521e8ce68448"
 </p>
-
+| Date | Close Price |
+| ----- | ----- |
+| 2023-05-18 |	25.264463 |
+| 2023-05-19 |	25.036213 |
+| 2023-05-22 |	24.695388 |
+| 2023-05-23 |	24.383966 |
+| 2023-05-24 |	24.096504 |
+| 2023-05-25 |	23.834217 |
+| 2023-05-26 |	23.598348 |
+| 2023-05-29 |	23.385828 |
+| 2023-05-30 |	23.193374 |
+| 2023-05-31 |	23.017422 |
 
 	
 ## Comparing between predicted values X actual values after aplied linear regress with MLPRegressor from ScikitLearn.
