@@ -11,7 +11,7 @@ Applied technologies:
 
 	
 <p align="left">
-	<img width="100" height="30" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/2a73bee3-7f7b-45df-aa6e-09458c5cde84"
+	<img width="120" height="40" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/2a73bee3-7f7b-45df-aa6e-09458c5cde84"
 </p>  
 
 	
@@ -31,7 +31,7 @@ Applied technologies:
 	
 	
 <p align="left">
-	<img width="100" height="30" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/27f9c64c-0b51-41fb-aa74-7854da290708"
+	<img width="120" height="40" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/27f9c64c-0b51-41fb-aa74-7854da290708"
 </p> 	
 	
 	
