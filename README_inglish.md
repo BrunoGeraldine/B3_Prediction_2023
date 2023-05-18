@@ -88,7 +88,7 @@ Applied technologies:
 	     </p>
 	
 	
-## Comparing between predicted values X actual values after aplied linear regressor with MLPRegressor to ScikitLearn.
+## Comparing between predicted values X actual values after aplied linear regress with MLPRegressor from ScikitLearn.
 	
 <p align="center">
 	<img width="800" height="300" src="https://github.com/BrunoGeraldine/B3_Prediction_share_bmg_2023/assets/87772120/cbfcd99c-ed65-45c4-9444-ddfb720f44fe"
