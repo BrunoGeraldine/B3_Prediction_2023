@@ -82,10 +82,10 @@ Applied technologies:
 	<img width="1000" height="400" src="https://github.com/BrunoGeraldine/B3_Prediction_share_bmg_2023/assets/87772120/e9cb0e22-c212-4201-8eb0-65eebd4d1f9d"
 </p>
 
-### Forecast prices from model LSTM:
+### Forecast prices table from model LSTM:
 
 <p align="center">
-	<img width="100" height="300" src="https://github.com/BrunoGeraldine/B3_Prediction_share_bmg_2023/assets/87772120/8c170e83-9945-411c-aca2-521e8ce68448"
+	<img width="200" height="500" src="https://github.com/BrunoGeraldine/B3_Prediction_share_bmg_2023/assets/87772120/8c170e83-9945-411c-aca2-521e8ce68448"
 </p>
 
 
