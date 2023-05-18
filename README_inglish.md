@@ -3,7 +3,7 @@
   <img width="800" height="300" src="https://user-images.githubusercontent.com/87772120/159761251-5fe36a23-d9ec-4fef-af06-06e470ab5824.png"
        </p>
 
-## B3_predict_shares with 2023 by, Bruno Geraldine
+## B3_predict_shares by, Bruno Geraldine
 	
 This project forecasts PETR4 assets belonging to the Petrobras company only for use in the application in the TensorFlow-Keras machine learning algorithm, which can be replicated to any other asset.
  
@@ -88,7 +88,7 @@ Applied technologies:
 	     </p>
 	
 	
-## Comparing between predicted values X actual values
+## Comparing between predicted values X actual values after aplied linear regressor with MLPRegressor to ScikitLearn.
 	
 <p align="center">
 	<img width="800" height="300" src="https://github.com/BrunoGeraldine/B3_Prediction_share_bmg_2023/assets/87772120/cbfcd99c-ed65-45c4-9444-ddfb720f44fe"
@@ -103,7 +103,7 @@ The main objective of this work is to present my technical skills in data proces
 
  Run on it.. (the next path: Streamlit app)
 
-years 2015 to 2021
+years 2012 to 2023
 
 [B3 times series - Data](https://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/historico/mercado-a-vista/series-historicas/)
 [File Layout - Quotations History](https://www.b3.com.br/data/files/33/67/B9/50/D84057102C784E47AC094EA8/SeriesHistoricas_Layout.pdf)
