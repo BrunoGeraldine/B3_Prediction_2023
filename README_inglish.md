@@ -61,13 +61,14 @@ Applied technologies:
 	     </p>
 
 
-# Graphical representation of the forecast result:
+# Graphical representation of the forecast result with LSTM TensorFlow:
 	
 ## Model Validation:
 
 <p align="center">
-	<img width="1000" height="400" src="https://user-images.githubusercontent.com/87772120/161988585-06b1889a-ee88-4aaa-b69c-5bfc00be53f6.png"
-	     </p>
+	<img width="1000" height="400" src="https://github.com/BrunoGeraldine/B3_Prediction_share_bmg_2023/assets/87772120/cb79cc44-997b-4434-9170-59c07e0e4a1a"
+</p>
+
 
 	
 ## Historycal Data + PRediction
