@@ -77,12 +77,10 @@ Applied technologies:
 	<img width="1000" height="400" src="https://github.com/BrunoGeraldine/B3_Prediction_share_bmg_2023/assets/87772120/b3e8edd3-231d-418b-b4ef-125a4471a91c"
 </p>
 
-
-
 	
 <p align="center">
-	<img width="1000" height="400" src="https://user-images.githubusercontent.com/87772120/161989119-4d79c10c-fe84-40ee-8c10-51866a595963.png"
-	     </p>
+	<img width="1000" height="400" src="https://github.com/BrunoGeraldine/B3_Prediction_share_bmg_2023/assets/87772120/e9cb0e22-c212-4201-8eb0-65eebd4d1f9d"
+</p>
 	
 	
 ## Comparing between predicted values X actual values after aplied linear regress with MLPRegressor from ScikitLearn.
