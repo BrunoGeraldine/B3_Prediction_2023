@@ -26,11 +26,6 @@ Applied technologies:
 
 	
 <p align="left">
-	<img width="120" height="40" src="https://user-images.githubusercontent.com/87772120/159762661-ba75c3a5-d85a-4d7a-a293-54fb6c6dd687.png"
-	     </p>
-	
-	
-<p align="left">
 	<img width="120" height="40" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/27f9c64c-0b51-41fb-aa74-7854da290708"
 </p> 	
 	
