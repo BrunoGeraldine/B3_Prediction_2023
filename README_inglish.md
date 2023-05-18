@@ -74,8 +74,8 @@ Applied technologies:
 ## Historycal Data + PRediction
 
 <p align="center">
-	<img width="1000" height="400" src="https://user-images.githubusercontent.com/87772120/161988795-81e4e60d-2b82-4d84-870a-596ca770681e.png"
-	     </p>
+	<img width="1000" height="400" src="https://github.com/BrunoGeraldine/B3_Prediction_share_bmg_2023/assets/87772120/5c324018-2f9f-43ff-98ba-1a8546e769e4"
+</p>
 
 
 	
