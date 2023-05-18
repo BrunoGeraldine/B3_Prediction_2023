@@ -23,6 +23,9 @@ Técnologias aplicadas:
 	<img width="100" height="30" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/b5a4699a-ef20-4ebf-b325-351db871c2de"
 </p>  
 
+<p align="left">
+	<img width="100" height="30" src="https://github.com/BrunoGeraldine/B3_Prediction_share_bmg_2023/assets/87772120/4fc46fe8-675a-4634-85ed-1c1e6fb8ffd3"
+</p>  
 
 
 
