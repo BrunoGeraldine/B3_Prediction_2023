@@ -1,11 +1,12 @@
 
 <p align="center">
-  <img width="800" height="300" src="https://user-images.githubusercontent.com/87772120/159761251-5fe36a23-d9ec-4fef-af06-06e470ab5824.png"
+  <img width="800" height="300" src="https://github.com/BrunoGeraldine/B3_Prediction_share_bmg_2023/assets/87772120/4fec153d-7280-446c-8e81-b0977485beed"
        </p>
+	
 
 ## B3_predict_shares by, Bruno Geraldine
 	
-This project forecasts PETR4 assets belonging to the Petrobras company only for use in the application in the TensorFlow-Keras machine learning algorithm, which can be replicated to any other asset.
+This project envisages PETR4 assets belonging to the Petrobras company only for use in the application of the TensorFlow-Keras machine learning algorithm, which can be replicated to any other asset for the purpose of developing linear regression skills in time series and therefore does not have the Instructional nature for advice on buying and/or selling assets on the stock exchange. If you decide to follow this project as a guide for financial transactions, know that you will do it of your own free will and the risks will be yours alone and exclusive.
  
 Applied technologies:
 
@@ -113,14 +114,16 @@ Graphical visualization of bollinger bands
 </p>
 
 ### MACD Indicator
-One of the most popular technical analysis indicators, the MACD, is widely used by traders in a variety of markets. This indicator, as we see in this technical analysis, can give strong signals of acceleration or reversal of trends in the prices of an asset. Although not infallible (no indicator is), the MACD provides very valuable insights for the trader who knows how to use it. As a generator of buy and sell signals, the MACD Indicator is a way to predict market movements. Therefore, its use is more common (and effective) to identify the beginning or end of a trend, in time to position yourself to take advantage of it. This happens most often when the MACD line crosses the Signal line. If the crossing takes place in a bullish signal, the tendency is for that asset to appreciate soon. The opposite is true: if the MACD crosses the Signal line downwards, the asset tends to move downwards.
+One of the most popular technical analysis indicators, the MACD, is widely used by traders in a variety of markets. This indicator, as we see in this technical analysis, can give strong signals of acceleration or reversal of trends in the prices of an asset. While not foolproof (no indicator is), the MACD provides very valuable insights for the trader who knows how to use it.
+	The MACD Indicator is a way of predicting market movements. Therefore, its use is more common (and effective) to identify the beginning or end of a trend. 113 This happens most often when the MACD line crosses the signal line.
+	If the crossing occurs in a bullish signal, the tendency is for this asset to appreciate soon. The opposite is true: if the MACD crosses the signal line downwards, the asset tends to move downwards. 
 	
 Graphical visualization of MACD orientation
 
 <p align="center">
 	<img width="1000" height="300" src="https://github.com/BrunoGeraldine/B3_Prediction_share_bmg_2023/assets/87772120/328e3295-4ec9-4c25-b6f5-088c5e2010f1"
 </p>
-![image]()
+
 
 	
  ps.: This project is not intended to guide, advise or indicate financial market actions for buying and/or selling, nor is it intended to analyze companies' commercial situations.
@@ -128,8 +131,6 @@ The main objective of this work is to present my technical skills in data proces
  
  
  
-
- Run on it.. (the next path: Streamlit app)
 
 years 2012 to 2023
 
