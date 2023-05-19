@@ -61,7 +61,7 @@ Applied technologies:
 	     </p>
 
 
-# Graphical representation of the forecast result with LSTM TensorFlow:
+## Graphical representation of the forecast result with LSTM TensorFlow:
 	
 ## Model Validation:
 
@@ -93,6 +93,22 @@ Applied technologies:
 	
 <p align="center">
 	<img width="800" height="500" src="https://github.com/BrunoGeraldine/B3_Prediction_share_bmg_2023/assets/87772120/cbfcd99c-ed65-45c4-9444-ddfb720f44fe"
+</p>
+
+___________________________________________________________________________________________________________________________________________________
+
+## Defining and guiding buying and/or selling with Bollinger Band and MACD
+	
+Graphical visualization of bollinger bands
+
+<p align="center">
+	<img width="800" height="500" src="https://github.com/BrunoGeraldine/B3_Prediction_share_bmg_2023/assets/87772120/c4db970f-54e1-469e-af88-3e64b20ff125"
+</p>
+
+Graphical visualization of MACD orientation
+
+<p align="center">
+	<img width="800" height="500" src="https://github.com/BrunoGeraldine/B3_Prediction_share_bmg_2023/assets/87772120/5238c354-adcb-4bcb-aa73-555b9301af3f"
 </p>
 
 	
