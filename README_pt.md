@@ -117,7 +117,7 @@ Graphical visualization of MACD orientation
 <p align="center">
 	<img width="1000" height="300" src="https://github.com/BrunoGeraldine/B3_Prediction_share_bmg_2023/assets/87772120/328e3295-4ec9-4c25-b6f5-088c5e2010f1"
 </p>
-![image]()
+
 	
 ps.: Reforçano o aviso anterior. Este projeto não tem o objetivo de orientar, aconselhar ou indicar ações do mercado financeiro para compra e venda de ações, nem se destina a analisar as situações comerciais das empresas.
 	O principal objetivo deste trabalho é apresentar minhas habilidades técnicas em processamento e análise de dados, bem como na implementação de algoritmos de _machine learn_.
