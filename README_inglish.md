@@ -99,7 +99,7 @@ ________________________________________________________________________________
 
 ## Defining and guiding buying and/or selling with Bollinger Band and MACD
 	
-	### Bollinger Bands
+### Bollinger Bands
 	
 Bollinger bands Bollinger bands concepts When the price of an asset breaks through the upper band, we observe an upward trend for the asset. On the other hand, if the price stays below the lower band, then there is a bearish trend. Bollinger bands work well for trending markets. This shows that, if used to analyze assets that deviate from this premise, they may not be as useful. Strategies using bollinger bands Some strategies based on this analysis tool are used. They are: 
 	* Crossing of prices with the bands
@@ -112,7 +112,7 @@ Graphical visualization of bollinger bands
 	<img width="1000" height="300" src="https://github.com/BrunoGeraldine/B3_Prediction_share_bmg_2023/assets/87772120/c4db970f-54e1-469e-af88-3e64b20ff125"
 </p>
 
-	### MACD Indicator
+### MACD Indicator
 One of the most popular technical analysis indicators, the MACD, is widely used by traders in a variety of markets. This indicator, as we see in this technical analysis, can give strong signals of acceleration or reversal of trends in the prices of an asset. Although not infallible (no indicator is), the MACD provides very valuable insights for the trader who knows how to use it. As a generator of buy and sell signals, the MACD Indicator is a way to predict market movements. Therefore, its use is more common (and effective) to identify the beginning or end of a trend, in time to position yourself to take advantage of it. This happens most often when the MACD line crosses the Signal line. If the crossing takes place in a bullish signal, the tendency is for that asset to appreciate soon. The opposite is true: if the MACD crosses the Signal line downwards, the asset tends to move downwards.
 	
 Graphical visualization of MACD orientation
