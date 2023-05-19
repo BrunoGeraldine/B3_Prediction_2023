@@ -57,6 +57,7 @@ Tecnologias aplicadas:
 <p align="left">
 	<img width="120" height="40" src="https://user-images.githubusercontent.com/87772120/159757447-f8e814e7-c076-4980-833e-2f9c1bd61863.png"
 	     </p>
+	
 ## Graphical representation of the forecast result with LSTM TensorFlow:
 	
 ## Model Validation:
