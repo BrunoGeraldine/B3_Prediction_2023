@@ -102,7 +102,7 @@ jupyter-core==4.9.2
 jupyter-highlight-selected-word==0.2.0
 jupyter-latex-envs==1.4.6
 jupyter-nbextensions-configurator==0.4.1
-jupyter-text2code==0.0.2
+
 jupyterlab-pygments==0.1.2
 jupyterlab-widgets==1.0.2
 keras==2.7.0
