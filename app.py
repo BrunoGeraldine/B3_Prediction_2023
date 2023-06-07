@@ -18,7 +18,7 @@ n_dias = st.slider('Quantidade de dias a ser prevista', 30, 365)
 
 #Coletando o nome e sigla da ação escolhida
 def pegar_dados_acao():
-    path = '../dataset/acao_nome.csv'
+    path = 'acao_nome.csv'
     return pd.read_csv(path)
 
 df = pegar_dados_acao()
