@@ -38,7 +38,6 @@ convertdate==2.4.0
 cramjam==2.5.0
 crashtest==0.3.1
 cryptography==36.0.2
-cupshelpers==1.0
 cycler==0.10.0
 cymem==2.0.6
 Cython==0.29.25
