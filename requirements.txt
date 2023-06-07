@@ -71,7 +71,6 @@ grpcio==1.43.0
 gunicorn==20.1.0
 h11==0.13.0
 h5py==3.6.0
-hidpidaemon==18.4.6
 hijri-converter==2.2.3
 holidays==0.13
 htmlmin==0.1.12
