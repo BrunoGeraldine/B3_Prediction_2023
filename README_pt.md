@@ -125,6 +125,7 @@ ps.: Reforçano o aviso anterior. Este projeto não tem o objetivo de orientar, 
 
 years 2012 to 2023
 
+[Working App](https://brunogeraldine-b3-prediction-share-bmg-2023-app-xnqaix.streamlit.app/)
 [B3 times series - Data](https://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/market-data/historico/mercado-a-vista/series-historicas/)
 [File Layout - Quotations History](https://www.b3.com.br/data/files/33/67/B9/50/D84057102C784E47AC094EA8/SeriesHistoricas_Layout.pdf)
                                        
