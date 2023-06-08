@@ -14,7 +14,7 @@ st.title('Análise de ações')
 #criando a side bar
 st.sidebar.header('Escolha a ação')
 
-n_dias = st.slider('Quantidade de dias a ser prevista', 30, 365)
+n_dias = st.slider('Quantidade de dias a ser prevista', 10, 90)
 
 #Coletando o nome e sigla da ação escolhida
 def pegar_dados_acao():
@@ -49,13 +49,16 @@ fig = go.Figure()
 fig.add_trace(go.Scatter(x=df_valores['Date'],
                          y=df_valores['Close'],
                          name='Preço Fechamento',
-                         line_color='orange'))
+                         line_color='gray'))
 
 
 fig.add_trace(go.Scatter(x=df_valores['Date'],
                          y=df_valores['Open'],
                          name='Preço Abertura',
-                         line_color='blue'))
+                         line_color='orange'))
+
+fig.update_layout(width=1400, height=500, font_size=12, dragmode='zoom')
+
 st.plotly_chart(fig)
 
 #Previsão
@@ -79,7 +82,9 @@ st.write(previsao[['ds', 'yhat', 'yhat_lower', 'yhat_upper']].tail(n_dias))
 
 #Grafico da Previsao
 grafico1 = plot_plotly(modelo, previsao)
+grafico1.update_layout(width=1400, height=500, font_size=12, dragmode='zoom')
 st.plotly_chart(grafico1)
 
 grafico2 = plot_components_plotly(modelo, previsao)
+grafico2.update_layout(width=1400, height=500, font_size=12, dragmode='zoom')
 st.plotly_chart(grafico2)
