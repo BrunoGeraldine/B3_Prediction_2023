@@ -6,7 +6,7 @@ from prophet import Prophet
 from prophet.plot import plot_plotly, plot_components_plotly
 from plotly import graph_objects as go
 
-DATA_INICIO = '2017-01-01'
+DATA_INICIO = '2018-01-01'
 DATA_FIM = date.today().strftime('%Y-%m-%d')
 
 st.title('Análise de ações')
@@ -18,7 +18,7 @@ n_dias = st.slider('Quantidade de dias a ser prevista', 30, 365)
 
 #Coletando o nome e sigla da ação escolhida
 def pegar_dados_acao():
-    path = 'acao_nome.csv'
+    path = 'acao_nome_2.csv'
     return pd.read_csv(path)
 
 df = pegar_dados_acao()
