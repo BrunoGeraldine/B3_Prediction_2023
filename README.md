@@ -108,18 +108,16 @@ Applied technologies:
 
 	
 <p align="left">
-	<img width="90" height="40" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/27f9c64c-0b51-41fb-aa74-7854da290708"
+	<img width="90" height="40" src="https://github.com/BrunoGeraldine/B3_Prediction_share_bmg_2023/assets/87772120/512d5c23-2998-4d14-844b-2f7cdb59e39b"
 </p> 	
-	![image](https://github.com/BrunoGeraldine/B3_Prediction_share_bmg_2023/assets/87772120/512d5c23-2998-4d14-844b-2f7cdb59e39b)
-
 	
 	
-<p align="left">
-	<img width="90" height="40"  src="https://user-images.githubusercontent.com/87772120/159754471-50912611-bc05-4dd6-8e56-5a678c22b7a3.png"
+<p align="center">
+	<img width="90" height="40"  src="https://github.com/BrunoGeraldine/B3_Prediction_share_bmg_2023/assets/87772120/62aa31b9-4176-4bca-a8d0-ba8630d16b49"
 	     </p>
 	
 	
-<p align="left">
+<p align="right">
 	<img width="90" height="40"  src="https://user-images.githubusercontent.com/87772120/159761744-dd023ad0-5573-43d6-8411-bccbee11a396.png"
 	     </p>
 
@@ -129,12 +127,12 @@ Applied technologies:
 	     </p>
 
 	
-<p align="left">
+<p align="center">
 	<img width="90" height="40" src="https://user-images.githubusercontent.com/87772120/159751017-a48e40fb-ccd6-49ad-8f12-5b5812c38066.png"]
 	     </p> 
 
 	
-<p align="left">
+<p align="right">
 	<img width="90" height="40" src="https://user-images.githubusercontent.com/87772120/159762382-0c6b6b0d-ce87-436e-a176-244a1b4eb3b6.png"
 	     </p>
 
