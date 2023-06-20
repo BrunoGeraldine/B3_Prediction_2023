@@ -12,10 +12,8 @@ This project envisages PETR4 assets belonging to the Petrobras company only for 
 Applied technologies:
 
 
-![Build](https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/2a73bee3-7f7b-45df-aa6e-09458c5cde84)
-	
 <p align="left">
-	<![Build](img width="120" height="40" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/2a73bee3-7f7b-45df-aa6e-09458c5cde84")
+	<img width="80" height="40" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/2a73bee3-7f7b-45df-aa6e-09458c5cde84"
 </p>  
 
 	
