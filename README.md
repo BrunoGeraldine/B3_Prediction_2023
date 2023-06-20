@@ -5,11 +5,12 @@
 	
 
 ## B3_predict_shares by, Bruno Geraldine
-	
+	ps.: This project ranges from data ingestion for treatment and analysis, as well as the use of machine learning algorithms for value regression.
+ 
 This project envisages PETR4 assets belonging to the Petrobras company only for use in the application of the TensorFlow-Keras machine learning algorithm, which can be replicated to any other asset for the purpose of developing linear regression skills in time series and therefore does not have the Instructional nature for advice on buying and/or selling assets on the stock exchange. If you decide to follow this project as a guide for financial transactions, know that you will do it of your own free will and the risks will be yours alone and exclusive.
  
 Applied technologies:
-
+![Build](https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/2a73bee3-7f7b-45df-aa6e-09458c5cde84)
 	
 <p align="left">
 	<img width="120" height="40" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/2a73bee3-7f7b-45df-aa6e-09458c5cde84"
