@@ -15,7 +15,7 @@ Applied technologies:
 ![Build](https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/2a73bee3-7f7b-45df-aa6e-09458c5cde84)
 	
 <p align="left">
-	<img width="120" height="40" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/2a73bee3-7f7b-45df-aa6e-09458c5cde84"
+	<![Build](img width="120" height="40" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/2a73bee3-7f7b-45df-aa6e-09458c5cde84")
 </p>  
 
 	
