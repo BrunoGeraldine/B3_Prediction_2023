@@ -110,7 +110,8 @@ Applied technologies:
 <p align="left">
 	<img width="90" height="40" src="https://github.com/BrunoGeraldine/B3_Prediction_2023/assets/87772120/27f9c64c-0b51-41fb-aa74-7854da290708"
 </p> 	
-	
+	![image](https://github.com/BrunoGeraldine/B3_Prediction_share_bmg_2023/assets/87772120/512d5c23-2998-4d14-844b-2f7cdb59e39b)
+
 	
 	
 <p align="left">
